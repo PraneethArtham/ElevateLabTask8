@@ -1,10 +1,10 @@
 # ElevateLabTask8
 
 # K-Means Clustering
-## 📌 Task Overview
+##  Task Overview
 This project uses **K-Means Clustering** to group customers into different segments based on their data.
 
-## 🛠 Steps Performed
+##  Steps Performed
 1. Load dataset
 2. Use Elbow Method to choose best `K`
 3. Train K-Means model
@@ -15,7 +15,7 @@ This project uses **K-Means Clustering** to group customers into different segme
 
 ---
 
-## ❓ Interview Q&A
+##  Interview Q&A
 | # | Question | Simple Answer |
 |---|----------|---------------|
 | 1 | **How does K-Means work?** | It groups points into K clusters by minimizing distance to the cluster center. |
